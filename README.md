@@ -1,6 +1,8 @@
-## Hey, I'm Arman 👋
+# Hey there! 👋
 
-I like turning ideas into code and seeing what happens. Currently a student at IIT Mandi, learning, breaking things, and building them again, mostly around AI, machine learning and anything that looks interesting.
+I'm Arman, I like turning ideas into code and seeing what happens. 
+
+Currently a student at IIT Mandi, learning, breaking things, and building them again, mostly around AI, machine learning and anything that looks interesting.
 
 In short, if it sounds cool, I'll probably try to build it. 🚀
 
