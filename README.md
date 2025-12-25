@@ -8,7 +8,7 @@ If it sounds cool, I’ll probably try to make it. 🚀
 
 ---
 
-### 🌱 Right now
+### 🌱 What I’m up to?
 - Exploring AI & machine learning  
 - Building small projects and experiments  
 - Getting better at writing clean code  
