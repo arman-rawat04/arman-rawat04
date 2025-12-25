@@ -1,10 +1,8 @@
 # Hey, I'm Arman 👋
 
-I like turning ideas into code and seeing what happens.
+I like turning ideas into code and seeing what happens. Currently a student at IIT Mandi, learning, breaking things, and building them again — mostly around AI, ML, DL and anything that looks interesting.
 
-Currently a student at IIT Mandi, learning, breaking things, and building them again — mostly around AI, ML, DL and anything that looks interesting.
-
-If it sounds cool, I’ll probably try to make it. 🚀
+In short, if it sounds cool, I'll probably try to build it. 🚀
 
 ---
 
